@@ -188,5 +188,3 @@ else:
         "genome_results.csv",
         "text/csv"
     )
-
-    
